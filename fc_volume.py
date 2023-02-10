@@ -20,7 +20,7 @@ def volume (CR):
     Vd=A*s # darba tilpums, m3
 
   
-    CR = 14
+    #CR = 14
 
     Vc=Vd/(CR-1)
 
